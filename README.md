@@ -1,7 +1,8 @@
-# Nama  : Hanggita Noupris Sabrina  
-# NIM   : 20240100054  
-# Prodi : Informatika
 # Universitas Siber Muhammadiyah
+Nama  : Hanggita Noupris Sabrina  
+NIM   : 20240100054  
+Prodi : Informatika
+
 
 # Sistem Informasi Perpustakaan Berbasis Web
 

@@ -26,7 +26,7 @@ Aplikasi ini merupakan sistem informasi perpustakaan berbasis PHP dan MySQL yang
 1. Download file app.rar lalu extract
 2. Buka XAMPP
 3. Jalankan Apache dan MySQL
-4. Import database:
+4. Import database yang ada pada file app.rar:
    - Buka http://localhost/phpmyadmin
    - Buat database baru dengan nama: `perpustakaan`
    - Import file `database.sql`

@@ -20,15 +20,16 @@ Aplikasi ini merupakan sistem informasi perpustakaan berbasis PHP dan MySQL yang
 
 ## Cara Menjalankan Aplikasi
 
-1. Buka XAMPP
-2. Jalankan Apache dan MySQL
-3. Import database:
+1. Download file app.rar lalu extract
+2. Buka XAMPP
+3. Jalankan Apache dan MySQL
+4. Import database:
    - Buka http://localhost/phpmyadmin
    - Buat database baru dengan nama: `perpustakaan`
    - Import file `database.sql`
-4. Salin folder `app` ke: C:\xampp\htdocs\
-5. Rename folder `app` menjadi: perpustakaan
-6. Buka browser dan akses: http://localhost/perpustakaan
+5. Salin folder `app` ke: C:\xampp\htdocs\
+6. Rename folder `app` menjadi: `perpustakaan`
+7. Buka browser dan akses: http://localhost/perpustakaan
 
 ## Struktur Aplikasi
 

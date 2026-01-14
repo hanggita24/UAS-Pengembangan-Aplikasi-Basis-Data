@@ -20,7 +20,7 @@ Aplikasi ini merupakan sistem informasi perpustakaan berbasis PHP dan MySQL yang
 
 ## Cara Menjalankan Aplikasi
 
-1. Install XAMPP
+1. Buka XAMPP
 2. Jalankan Apache dan MySQL
 3. Import database:
    - Buka http://localhost/phpmyadmin
